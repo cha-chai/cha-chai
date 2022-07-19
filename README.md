@@ -1,4 +1,4 @@
-👋 Hi, I’m @chai
+Ciao, I’m @chai
 
 🍵 I’m currently learning web dev
 
