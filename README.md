@@ -1,6 +1,6 @@
-Ciao, I’m @chai
+Ciao, I’m @chai 
 
-🍵 I’m currently learning web dev
+I’m currently learning web dev 🍵 
 
 
 <!---
