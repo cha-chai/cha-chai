@@ -2,6 +2,8 @@ Ciao, I’m @Chai
 
 I’m currently learning web dev 🍵 
 
+hi at chai dot com
+
 
 <!---
 cha-chai/cha-chai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
