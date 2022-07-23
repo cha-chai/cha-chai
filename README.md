@@ -2,7 +2,6 @@ Ciao, I’m @Chai
 
 I’m currently learning web dev 🍵 
 
-hi at chai dot com
 
 
 <!---
