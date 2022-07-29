@@ -1,8 +1,10 @@
-Ciao, I’m @Chai 
+<p align="center">
+    Ciao, I’m @Chai 🍵 
+</p>
 
-I’m currently learning web dev 🍵 
-
-
+<p align="center">
+    I’m interested in Web and Interactive Design
+</p>
 
 <!---
 cha-chai/cha-chai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
